@@ -1,0 +1,691 @@
+682802 EJC0010.1177/0267323116682802<a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a><a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>
+
+research-article2017
+
+Article
+
+<a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> as arena for the 
+authentic outsider: exploring 
+the social media campaigns of 
+<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> and <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> in the 2016 
+<a href="https://en.wikipedia.org/wiki/United_States">US</a> presidential election
+
+<a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a>
+2017, Vol. 32(1) 50 –61
+© The Author(s) 2017
+Reprints and permissions:  
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0267323116682802
+https://doi.org/10.1177/0267323116682802
+journals.sagepub.com/home/ejc
+
+<a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>">Gunn <a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a></a>
+<a href="https://en.wikipedia.org/wiki/University_of_<a href="https://en.wikipedia.org/wiki/Oslo">Oslo</a>">University of <a href="https://en.wikipedia.org/wiki/Oslo">Oslo</a></a>, <a href="https://en.wikipedia.org/wiki/Norway">Norway</a>
+
+Abstract
+In the 2016 <a href="https://en.wikipedia.org/wiki/United_States">US</a> presidential election campaign, social media platforms were increasingly used as 
+direct sources of news, bypassing the editorial media. With the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s’ millions of followers, 
+<a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>  has  become  a  platform  for  mass  communication  and  the  <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>’s  main  online 
+information channel. Likewise, social media has provided a platform for debating and critiquing 
+the mainstream media by the campaigns and their networks. This article discusses the <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> 
+strategies of the democratic <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> and <a href="https://en.wikipedia.org/wiki/Republican_Party_(United_States)">republican</a> <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a> 
+during  their  <a href="https://en.wikipedia.org/wiki/United_States">US</a>  2016  presidential  election  campaigns.  While  the  <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>  campaign’s  strategy 
+confirms theories regarding the professionalisation of election campaigns, the <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign’s 
+more amateurish yet authentic style in social media points towards de-professionalisation and 
+even amateurism as a counter-trend in political communication.
+
+Keywords
+Election campaigns, social media, professionalisation, authenticity, <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>
+
+Introduction
+Social media is the latest fascination of political communication strategists, particularly 
+during election campaigns. While television and newspapers remain dominant sources of 
+news in general, social media has become an increasingly important source for political 
+news in particular. In the 2008 <a href="https://en.wikipedia.org/wiki/United_States">US</a> presidential election cycle, with <a href="https://en.wikipedia.org/wiki/Democratic_Party_(United_States)">Democratic</a> <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> 
+
+Corresponding author:
+<a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>">Gunn <a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a></a>, <a href="https://no.wikipedia.org/wiki/Institutt_for_medier_og_kommunikasjon">Department of Media and Communication</a>, <a href="https://en.wikipedia.org/wiki/University_of_<a href="https://en.wikipedia.org/wiki/Oslo">Oslo</a>">University of <a href="https://en.wikipedia.org/wiki/Oslo">Oslo</a></a>, Gaustadalléen 21, 
+<a href="https://en.wikipedia.org/wiki/Oslo_Science_Park">Forskningsparken</a>, 0349 <a href="https://en.wikipedia.org/wiki/Oslo">Oslo</a>, <a href="https://en.wikipedia.org/wiki/Norway">Norway</a>. 
+Email: <a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>">gunn.enli@media.uio.no</a>
+
+<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> 
+
+51
+
+Barack <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> as its icon, the social media political campaign became a buzzword of 
+sorts, and the potential of social media to mobilise voters was thoroughly hyped as well.
+Since then, social media has developed and grown in scale and scope – new platforms 
+and services have emerged, and established platforms have expanded. These platforms 
+have replaced campaign websites as the parties’ and <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s’ main online information 
+channels. Yet there is no evidence that social media has replaced traditional channels for 
+political  communication  –  TV  debates,  advertising,  rallies,  door  knocking,  the  news 
+media and press conferences are still highly prioritised by the campaigns and their <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">can-
+didate</a>s  (<a href="https://en.wikipedia.org/wiki/Craig_G">Craig</a>,  2016;  <a href="https://en.wikipedia.org/wiki/Nielsen_Holdings">Nielsen</a>,  2012). Yet,  all  of  these  activities  are  now  impacted  in 
+some way by social media – documented, debated and mentioned on <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>, <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a> 
+or <a href="https://en.wikipedia.org/wiki/Instagram">Instagram</a> by the campaigns and those who follow them.
+
+The research literature on social media and election campaigns can be divided into 
+three main strands. The first strand is concerned with the historical development of digi-
+tal campaigns and the use of blogs, <a href="https://en.wikipedia.org/wiki/YouTube">YouTube</a>, <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a> and <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> to mobilise voters 
+(<a href="https://en.wikipedia.org/wiki/Axel_Bruns_(scholar)">Bruns</a>  and  Highfield,  2016;  Howard,  2006;  Kreiss,  2012;  Stromer-Galley,  2014). 
+According to these studies, blogs were included in <a href="https://en.wikipedia.org/wiki/United_States">US</a> election campaigns starting in 
+2004, but it was the 2008 <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> campaign that represented the first ‘social media elec-
+tion’. The  second  strand  looks  at  the  level  of  interaction  with  voters  in  social  media 
+campaigns  (<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>  and  Naper,  2016;  Graham  et  al.,  2013;  Jackson  and  Lilleker,  2011; 
+Stromer-Galley, 2000, 2004). A key finding in these studies is that politicians are reluc-
+tant to engage in dialogue with voters on social media and that campaigns use social 
+media primarily as an arena for political marketing. The third strand of research deals 
+with the level of professionalisation of campaigns (Kreiss, 2014; Kreiss and Jasinski, 
+2016; Lilleker and Negrine, 2002; Stromer-Galley, 2014).
+
+Contributing to these three strands of research, this article asks the following: What 
+are the most recent developments in social media election campaigns in the <a href="https://en.wikipedia.org/wiki/United_States">United States</a> 
+and to what degree do these developments point in the direction of increased interaction 
+with voters and/or increased professionalisation of the campaigns?
+
+These research questions will be answered through an analysis of tweets posted on the 
+official <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> accounts of the democratic <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> and <a href="https://en.wikipedia.org/wiki/Republican_Party_(United_States)">republican</a> <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">can-
+didate</a> <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a> during the <a href="https://en.wikipedia.org/wiki/United_States">US</a> 2016 presidential election cycle.1 In addition, the 
+discussion will draw on insights from recent <a href="https://en.wikipedia.org/wiki/Europe">European</a> election campaigns.
+
+The article is divided into three main parts. The first looks at the recent developments 
+in the election campaigns’ use of social media, the second deals more specifically with 
+the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s’ interactions with voters and the third addresses the level of professionali-
+sation in the campaigns.
+
+Recent developments in social media campaigns
+In  order  to  discuss  recent  changes  in  the  social  media  and  technology-driven  election 
+campaigns, it is useful to take a step back and discuss the development of political com-
+munication prior to the current phase. It is nearly two decades since <a href="https://en.wikipedia.org/wiki/Jay_Blumler">Blumler</a> and Kavanagh 
+(1999) divided political communication in Western democracies into three distinct histori-
+cal phases, starting with the two decades following <a href="https://en.wikipedia.org/wiki/World_War_II">World War II</a> and what has been called 
+the ‘golden age of the parties’ – that is, a <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a>-dominated communication system. The 
+
+52 
+
+<a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a> 32</a>(1) 
+
+second phase, starting in the 1960s, was the ‘era of television’. The third, more generally 
+termed the digital era, is characterised by an intensified personalisation of political advo-
+cacy and increased anti-elitism, popularisation and populism.
+
+The  recent  developments  in  in  social  media  campaigns  connectes  well  with  these 
+characteristics, and it is not difficult to find examples of personalisation, anti-elitism or 
+populism in political communication on <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>, <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> and <a href="https://en.wikipedia.org/wiki/Instagram">Instagram</a>. Yet, the term 
+‘digital era’ also covers up the current trends in political communication, and I will thus 
+tentatively suggest that, from the 2010s onwards, a forth phase is emerging: the ‘era of 
+social media’, which represents a new shift in the power balance between politicians and 
+editorial media; as a direct channel to the voters, social media returns us to the ‘golden 
+age of the parties’, as defined by <a href="https://en.wikipedia.org/wiki/Jay_Blumler">Blumler</a> and Kavanagh (1999), except that this time 
+around, the parties have been replaced by the campaigns.
+
+The ‘era of social media’ does however not imply that platforms such as <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>, 
+<a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> and <a href="https://en.wikipedia.org/wiki/Instagram">Instagram</a> has replaced television (or newspapers or radio, for that matter) 
+but  it  has  changed  it  and  the  way  audiences  watch  it  (Chadwick  2014;  <a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>  and 
+Syvertsen, 2016). TV is no longer a stand-alone medium for political communication, 
+because its mainstream media presence currently exists in tandem with social media, 
+in the context of both multi-platform campaigns and multi-tasking users. This means 
+that politicians are inceasingly required to have a ‘performative flexibility’ in the inter-
+ests of connecting with voters (<a href="https://en.wikipedia.org/wiki/Craig_G">Craig</a>, 2016), moving comfortably between different 
+format criteria and expectations, from the formal to the informal, from the profession-
+alised to the personalised. This ups the threshold for political <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s’ communica-
+tive skills and presents the need for a professional yet highly flexible communication 
+division within their campaigns.
+
+Between the 2008 and 2016 <a href="https://en.wikipedia.org/wiki/United_States">US</a> presidential election cycle, social media has changed 
+and become more various and omnipresent. In 2008, both the democratic and the repub-
+lican campaigns used <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>, <a href="https://en.wikipedia.org/wiki/YouTube">YouTube</a>, <a href="https://en.wikipedia.org/wiki/Myspace">Myspace</a> and <a href="https://en.wikipedia.org/wiki/Flickr">Flickr</a>. By 2012, <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a> had 
+increased its user base significantly, and <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> had emerged as the new social media 
+network with a critical mass of devotees. In the 2012 <a href="https://en.wikipedia.org/wiki/United_States">US</a> presidential election cycle, the 
+democratic <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> campaign used far more social media platforms (nine) than the repub-
+lican <a href="https://en.wikipedia.org/wiki/Mitt_Romney">Romney</a> campaign (five). The 2016 <a href="https://en.wikipedia.org/wiki/United_States">US</a> presidential election cycle saw a drop in the 
+total  number  of  social  media  platforms;  the  <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>  and <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>  campaigns  both  used 
+<a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>, <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>, <a href="https://en.wikipedia.org/wiki/YouTube">YouTube</a> and <a href="https://en.wikipedia.org/wiki/Instagram">Instagram</a>, and the <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> campaign also used <a href="https://en.wikipedia.org/wiki/Pinterest">Pinterest</a> 
+(<a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Pew Research</a>, 2016).2 In the past decade or so, then, <a href="https://en.wikipedia.org/wiki/United_States">US</a> campaigns have seen a period 
+of expansion and experimentation, then a period of consolidation around the most wide-
+spread social media platforms.
+
+A  key  development  between  the  2012  and  the  2016  <a href="https://en.wikipedia.org/wiki/United_States">US</a>  presidential  election  cam-
+paigns is that the focus on images and videos has grown. This is especially evident in the 
+ascent of the online mobile photo-sharing platform <a href="https://en.wikipedia.org/wiki/Instagram">Instagram</a>, which was used by the 
+aforementioned  campaigns  as  well  as  that  of  <a href="https://en.wikipedia.org/wiki/Bernie_Sanders">Bernie  Sanders</a>  (<a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Pew  Research</a>,  2016). 
+Moreover,  the  use  of  video  on  social  media  platforms  such  as  <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>  and  <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> 
+increased significantly since the 2012 election cycle; the 2016 Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> campaign, 
+in  particular,  regularly  posted  videos  as  part  of  their  social  media  messages.  In  sum, 
+social media has become a more prominent communication channel for <a href="https://en.wikipedia.org/wiki/United_States">US</a> campaigns 
+since 2008, particularly in relation to campaign websites. In addition, in 2016, social 
+
+<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> 
+
+53
+
+media platforms are increasingly used as direct sources of news, bypassing the editorial 
+media (Pew Report, 2016).
+
+Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> for example launched her presidential candidacy by tweeting: ‘I’m 
+running for president. Everyday <a href="https://en.wikipedia.org/wiki/United_States">American</a>s need a champion, and I want to be that cham-
+pion. – H’ (tweet, 12 April 2015). Rather than initiating a press conference and relying 
+on the mainstream media to share her news, <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>’s campaign staff chose <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>, in 
+tandem with a <a href="https://en.wikipedia.org/wiki/YouTube">YouTube</a> video release titled ‘Getting started’,3 in which Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> 
+tells us that she is ‘getting ready to run for president’.
+
+Likewise, social media provided <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a> with a platform to critique the main-
+stream media as biased and untrustworthy. In addition to several other established media 
+companies, the New <a href="https://en.wikipedia.org/wiki/New_York_City">York</a> Times was subjected to harsh judgment:
+
+The  failing  @nytimes  is  truly  one  of  the  worst  newspapers. They  knowingly  write  lies  and 
+never call to fact check. Really bad people! (Tweet, 13 March 2016)
+
+Even though the numbers are not directly comparable, it is worth noting that <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> 
+had 17.6 million followers on <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> and the New <a href="https://en.wikipedia.org/wiki/New_York_City">York</a> Times has 1.2 million online-
+only subscribers in the last quarter of 2016.4 In turn, <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>’s <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> campaign might 
+critique the mainstream media, but is also in itself a mass media channel. Social media is 
+contributing to a shift in the power relation between the politcians and their campaigns 
+and the mainstream media and the journalists, becauce the politicians now have a access 
+to the means of production as well as efficient and direct distribution channels. These 
+distribution channels differ from broadcasting and newspapers also in their interactive 
+potential, which is a crucial factor to discuss as new trends in political communication.
+
+Controlling the message
+Historically, every new media technology seems to have brought with it a set of expecta-
+tions related to the revival of democracy and the empowerment of the people in relation 
+to the power elites (Barber, 1998; <a href="https://en.wikipedia.org/wiki/Yochai_Benkler">Benkler</a>, 2006; <a href="https://en.wikipedia.org/wiki/Bertolt_Brecht">Brecht</a>, 1983 [1930]). These idealistic 
+expectations have often led to disappointment, as new media revert to the reinforcement 
+of existing power hierarchies.
+
+This disappointment is also found by those who study social media in political com-
+munication;  at  various  stages  in  the  development  and  in  various  national  contexts, 
+researchers have documented profound reluctance among politicians regarding enhanced 
+interactivity with voters. Rather than using social media as a way to interact with voters 
+or encourage dialogue which might empower the citizens, the political campaigns pri-
+marily use social media as a channel for political marketing. As pinpointed by Jennifer 
+Stromer-Galley (2000, 2014) in several studies over the course of more than a decade, 
+<a href="https://en.wikipedia.org/wiki/United_States">US</a> campaigns do not prioritise dialogue and interactivity. In one of the more recent stud-
+ies, she noted that: ‘<a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Campaigns</a> wish to mobilize the public in the service of the cam-
+paign, but getting too close to them, really listening and empowering them, is dangerous 
+and  at  least  disadvantageous’  (Stromer-Galley,  2014:  187).  Politicians’  reluctance  to 
+engage in dialogue is also uncovered by studies of <a href="https://en.wikipedia.org/wiki/Europe">European</a> political campaigns; in the 
+<a href="https://en.wikipedia.org/wiki/United_Kingdom">United Kingdom</a>, for example, online campaigns and social media usage were found to 
+
+54 
+
+<a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a> 32</a>(1) 
+
+simply replicate the one-way communication pattern established by mass media cam-
+paigning (Coleman, 2001; Jackson and Lilleker, 2011).
+
+In the <a href="https://en.wikipedia.org/wiki/Scandinavia">Scandinavia</a>n countries, the picture is more mixed; studies have demonstrated 
+both a reluctance to interact with citizens using social media (Larsson and Moe, 2013) 
+and the opposite inclination – the <a href="https://en.wikipedia.org/wiki/Norway">Norwegian</a> <a href="https://en.wikipedia.org/wiki/Erna_Solberg">prime minister</a>, Erna <a href="https://en.wikipedia.org/wiki/Erna_Solberg">Solberg</a>, for example, 
+has  frequently  traded  tweets  with  journalists  as  well  as  citizens  (Larsson  and  Ihlen, 
+2015). This willingness to engage in dialogue with voters, however, brings with it a cost, 
+in the form of reduced control over one’s message and a greater risk of making a mistake. 
+<a href="https://en.wikipedia.org/wiki/Erna_Solberg">Solberg</a> experienced the latter when she was mocked by one of her followers for a couple 
+of spelling mistakes in her tweets. Even this worked out in the end, however: she politely 
+explained  that  she  suffers  from  dyslexia,  and  the  <a href="https://en.wikipedia.org/wiki/Norway">Norwegian</a>  <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>sphere  promptly 
+voiced its support for her candour and accessibility. This episode perhaps demonstrates 
+less political reluctance to engage in dialogue with voters in egalitarian societies like 
+those  in  the  Nordic  region  than  in  more  polarised  societies  like  the  <a href="https://en.wikipedia.org/wiki/United_States">United  States</a>. 
+Moreover, the epsiode pinpoints the advatages of being regarded as authentic, and the 
+potential power of networked support from users (<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> 2015).
+
+In the 2016 <a href="https://en.wikipedia.org/wiki/United_States">US</a> election campaigns, familiar patterns from previous cycles reappeared, 
+including a tendency towards one-way communication and little sign of voter–campaign 
+interactivity. In fact, it would appear that the opportunities for public participation in digi-
+tal political campaigns have decreased between 2012 and 2016. While the official cam-
+paign websites of recent election cycles firmly controlled the message and any resultant 
+public  participation,  2016  campaign  websites  lacked  comment  sections  altogether.  In 
+addition, the campaigns clearly used social media platforms as channels to promote <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">can-
+didate</a>s and mobilise voters, not to engage with the public (<a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Pew Research</a>, 2016).
+
+Retweeting or directly reposting content already posted by another user is a more pas-
+sive and less demanding form of engaging with users on social media. Comparing the 
+two main <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s in the 2016 <a href="https://en.wikipedia.org/wiki/United_States">US</a> campaigns, the 2016 <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign retweeted 
+more frequently (about a quarter of his tweets were retweets) and engaged most exten-
+sively with the general public (78% of the retweets were written by ordinary users). In 
+comparison, the <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> campaign retweeted considerably less frequently (only 15% of 
+her tweets were retweets), and the messages <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> retweeted were not posted by the 
+general  public  but  by  her  team’s  related  campaign  accounts  (<a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Pew  Research</a>  2016). 
+Consequently, the <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> strategies of the two presidential campaigns diverged – the 
+2016 <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign was more willing to engage with the general public and thus also 
+to take the risk of retweeting content it did not control, whereas the 2016 <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> cam-
+paign was more guarded and geared towards total control over the message.
+
+Professionalisation meets amateurism
+The divergent <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> strategies around user engagement of the two campaigns in the 
+2016  <a href="https://en.wikipedia.org/wiki/United_States">US</a>  election  point  to  a  fundamental  difference  between  professionalisation  and 
+amateurism in the social media strategies of the two campaigns. The 2016 <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> cam-
+paign’s social media activity confirms theories regarding the professionalisation of elec-
+tion campaigns in Western liberal democracies, while the 2016 <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign has a 
+more amateurish yet authentic style in social media.
+
+<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> 
+
+55
+
+Following the 2008 <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> presidential run, social media campaigns were no longer 
+an  amateur  activity  –  technical  expertise,  focus  group  research  and  specialisation  of 
+staffing  all  contributed  to  what  was  an  international  trend.  <a href="https://en.wikipedia.org/wiki/Europe">European</a>  political  parties 
+were eager to study the strategies used in <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> effort, and social media expertise was 
+exported from the <a href="https://en.wikipedia.org/wiki/United_States">United States</a> to <a href="https://en.wikipedia.org/wiki/Europe">European</a> countries such as <a href="https://en.wikipedia.org/wiki/Norway">Norway</a> and the <a href="https://en.wikipedia.org/wiki/United_Kingdom">United 
+Kingdom</a> to help political campaigns there to exploit the marketing potential of social 
+media. The largest political <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a> in <a href="https://en.wikipedia.org/wiki/Norway">Norway</a>, the <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">Labour Party</a>, visited <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> 2008 cam-
+paign staffers for training and skill development regarding social media (Karlsen, 2013). 
+Likewise,  the  <a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>  Conservative  Party  hired  the  2012  <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a>  <a href="https://en.wikipedia.org/wiki/Jim_Messina_(political_staffer)">campaign  manager</a>  <a href="https://en.wikipedia.org/wiki/Jim_Messina_(political_staffer)">Jim 
+Messina</a> before the 2015 <a href="https://en.wikipedia.org/wiki/United_Kingdom">British</a> election to ‘bring to their operation the same binding 
+marriage  of  social  media  and  political  organization  that  many  in  the  <a href="https://en.wikipedia.org/wiki/United_States">US</a>  credit  with 
+securing <a href="https://en.wikipedia.org/wiki/Barack_Obama">Mr.</a> <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> a second term’ (Stratton, 2013).5 The export of expertise contrib-
+uted to a higher emphasis on the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> rather than the <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a>, also in <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a>-centred 
+political systems like in the <a href="https://en.wikipedia.org/wiki/United_Kingdom">United Kingdom</a> and <a href="https://en.wikipedia.org/wiki/Norway">Norway</a> (<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> and <a href="https://no.wikipedia.org/wiki/Eli_Skogerbø">Skogerbø</a>, 2013). As 
+with the arrival of earlier technologies to the realm of political marketing, such as radio 
+or TV, the <a href="https://en.wikipedia.org/wiki/United_States">United States</a> represented the international spearhead regarding the accompa-
+nying 
+towards  professionalisation  of  campaigning  (Maarek,  2011). 
+Professionalisation of social media in election campaign is mainly found in the form of 
+increasing standardisation of messages for the purpose of efficiently promoting the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">can-
+didate</a>, and research-based and advanced methods for mobilising voters (Kreiss, 2014; 
+Stromer-Galley,  2014). As  such,  the  new  opportunities  offered  by  digital  technology 
+results in an increasing professionalisation of election campaigns.
+
+tendency 
+
+However, there is also a counter-trend to professionalisation: de-professionalisation 
+and even amateurism. This trend was for example seen in the 2016 <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign, 
+where the focus group tested tweeting seems to be replaced by a more gut-feeling tweet-
+ing.  The  appeal  of  the  de-professionalised  campaign  was  to  a  degree  also  already 
+acknowledged by the 2012 <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> campaign, which explicitly sought alternatives to the 
+professional staffer and consulting model and worked to de-professionalise its own staff 
+(Kreiss  and  Jasinski,  2016:  15).  It  would  appear,  then,  that  there  are  benefits  to  both 
+approaches to social media, depending on the context, targeted audience and goal.
+
+The 2016 <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> campaign represented a continuation of the professionalised social 
+media  campaigns  established  in  previous  presidential  campaigns  by  the  <a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Democratic_Party_(United_States)">Democratic</a>_Party_(United_States)"><a href="https://en.wikipedia.org/wiki/Democratic_Party_(United_States)">Democratic</a> 
+Party</a>  –  technological  expertise  and  digital  communication  structure,  after  all,  tend  to 
+transfer  from  one  cycle  to  the  next  (Kreiss  and  Jasinski,  2016).  In  contrast,  the  2016 
+<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>  campaign  started  from  scratch  in  the  realm  of  political  communication;  while 
+<a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a> was already a savvy <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">exploiter</a> of the media as both a celebrity and a busi-
+ness owner, he had never been involved in a political election campaign. In light of the 
+theory of an increasing professionalisation of <a href="https://en.wikipedia.org/wiki/United_States">American</a> election campaigns, then, the 
+2016 <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign represented a counter-trend.
+
+Rather than copying the social media strategies of the professionalised campaigns run 
+by the <a href="https://en.wikipedia.org/wiki/Democratic_Party_(United_States)">Democratic</a> <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a>, <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a> chose a strategy better described as amateurism. 
+Its amateurism did not derive from any lack of strategy or competence about basic media 
+logics, however, because <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> knew how to get media coverage, validating those stud-
+ies that have demonstrated that celebrity politicians are several times more likely than 
+unknown politicians to be quoted in the mainstream news on the basis of their social 
+
+56 
+
+<a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a> 32</a>(1) 
+
+Figure 1.  Tweeting style of <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s, coded as traditional, non-traditional or neutral 
+(n = 898).
+
+media posts (Chadwick, 2014; Wallsten, 2013). His celebrity status therefore fuelled the 
+<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign and enabled a strategy based on a controversial and unexpected use of 
+social media, and in particular, <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>. His image as a <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> was largely formed by 
+his widely circulated tweets, which were often quoted and debated in the mainstream 
+media.
+
+The controlled politician versus the authentic outsider
+In order to analyse these two divergent strategies more closely, I compared the tweeting 
+styles of Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> and <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a> in terms of professionalism versus amateur-
+ism. Figure 1 presents the results of a quantitative comparison based on the coding of 
+tweets as either traditional, meaning professionalised and in line with the established 
+standards for tweets posted by a presidential <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>, or non-traditional, meaning <a href="https://en.wikipedia.org/wiki/Amateur">ama-
+teur</a>ish, in the sense that they do not follow the standards.
+
+The comparison clearly demonstrates the contrast between the 2016 <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign 
+and  the  2016  <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>  campaign  in  terms  of  standardisation  and  professionalisation. 
+While 82% of <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>’s tweets are categorised as traditional, only 38% of <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>’s tweets 
+are in line with established stylistic standards. Likewise, almost 55% of <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>’s tweets 
+were unconventional, as opposed to only 13% of <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>’s tweets.
+
+Again, this is not to say that this kind of amateurishness is ineffective or inferior as 
+strategic communication. There is a rhetorical strength in this voice that responds to the 
+ideal of authenticity of the speaker (<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>, 2015). By not even attempting the guise of 
+professionalism using digital media staffers or communication experts, that is, <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald 
+<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a> made a statement regarding his positioning as a genuine outsider.
+
+Probably motivated by the <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign’s unconventional style, the <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> cam-
+paign also posted some tweets with unexpected and informal content. A key example of 
+this was the tweet ‘Delete your account’ (tweet, 09 June 2016), sent as a reply to <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>’s 
+tweet: ‘<a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> just endorsed Crooked Hillary. He wants four more years of <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> but 
+nobody else does!’ (tweet, 09 June 2016). This response was surprising, given the more 
+formal  and  polite  messages  that  were  regularly  posted  to  her  account,  and  the  tweet 
+
+<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> 
+
+57
+
+gained enormous attention and was retweeted more than 500,000 times. The expression 
+‘delete your account’ is a standard ironic tweet used as a response to tweets, usually by 
+politicians, which are inappropriate or out of touch with the <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> community.
+
+Moreover, the <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> campaign quickly picked up on new trends such as gamifica-
+tion,  meaning  the  use  of  gaming  elements  and  game  structures  in  new  contexts.  To 
+encourage voter registration, for example, the <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> campaign associated it with the 
+location-based  <a href="https://en.wikipedia.org/wiki/Pokémon_Go">augmented  reality  game</a>  <a href="https://en.wikipedia.org/wiki/Pokémon_Go">Pokemon  Go</a>  only  a  week  after  the  game’s 
+launch.6 In a context of professionalisation, the <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> campaign used social media to 
+re-brand the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> as trendier than she typically appears in mass media coverage (see 
+Parry-Giles, 2014).
+
+One communicative challenge for <a href="https://en.wikipedia.org/wiki/United_States">US</a> presidential <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s is that their social media 
+accounts  appear  personal  but  are  usually  overseen  by  campaign  staffers.  In  the  case  of 
+<a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>’s campaign, then, it might have been confusing for voters to meet such a digitally 
+savvy and tech-trendy <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> who was inviting users to play online games or respond 
+with emojis. Even when users are well aware of the fact that political advisers and media 
+staffers are administering the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s’ <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> accounts, the image presented on social 
+media might be simply too distant from the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>’s general image to be compelling or 
+believable. Accordingly, a key dilemma for the campaigns is to identify the right balance 
+between the general image of the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> and the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>’s social media persona.
+
+This  dilemma  was  much  less  relevant  to  the <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>  campaign  than  to  the  <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> 
+campaign. First of all, <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> simply stayed more involved in his staff’s tweeting and 
+even  wrote  many  of  his  own  tweets. According  to  news  interviews, <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>  generally 
+wrote the tweets himself after 7:00 p.m. at night, and during the day he dictated them by 
+shouting words and even punctuation marks at his staffers.7 The <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>’s personal 
+involvement was also underlined by the account name @real_Donald<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>, as though 
+to underline that the tweets came directly from <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> himself and were not managed and 
+crafted solely by his campaign.
+
+In comparison, Barack <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> did not write any of his social media messages during 
+the 2008 election campaign, and only 1% of the Tweets posted during the 2012 cycle 
+were signed ‘b.o.’, the clue that they were in fact authored by the president (<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> and 
+Naper, 2016). A similar strategy was used by Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>, who used the ‘ – H’ signa-
+ture to indicate that a tweet was written by her. This signature was typically used quite 
+seldom and selectively; it for example appeared in the tweet announcing her candidacy, 
+but not in tweets criticising <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>. Consequently, the tweets posted on <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>’s account 
+came across as less spontaneous and genuine compared to <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>’s tweets . . .
+
+A comparative study of the 2012 <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> campaign and the 2012 <a href="https://en.wikipedia.org/wiki/Mitt_Romney">Romney</a> campaign 
+demonstrates that the autonomy of digital media staffers was considerably higher in the 
+former, and that they could post messages and updates without always consulting with 
+the political side of the organisation (Kreiss, 2014). The fact that <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> delegated much 
+less social media work to professionals than either of the <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> campaigns and the 2016 
+<a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> campaign meant that his <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> image on social media was much closer to his 
+self-presentation.  To  a  degree,  <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>  therefore  came  across  as  more  consistent  an 
+authetic compared to <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>, and image that was strenghtened by his position as a new-
+comer  in  politics.  This  image  of  the  outspoken  outsider  was  constructed  through  a 
+dynamic between the mass media and social media.
+
+58 
+
+<a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a> 32</a>(1) 
+
+A closer examination of the tweets posted on @real_Donald<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> demonstrates that 
+more than one-third of the tweets included ‘authenticity markers’, in the sense that they 
+expressed impoliteness and political incorrectness, often using capital letters. The fol-
+lowing tweet, for example, incorporates name-calling, insults and stylistic devices such 
+as all-caps and exclamation marks:
+
+Crooked Hillary has ZERO leadership ability. As <a href="https://en.wikipedia.org/wiki/Bernie_Sanders">Bernie Sanders</a> says, she has bad judgment. 
+Constantly playing the women’s card – it is sad! (Tweet, 06 May 2016)
+
+Capital letters are often used to emphasise one’s sincerity, spontaneity and engage-
+ment, offering the speaker an air of authenticity. In these regards, then, <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>’s tweets 
+were fairly predictable, and his voice was very recognisable to his followers. Even in 
+tweets with a political message that reference specific numbers or make promises, the 
+<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign used capital letters and exclamation marks as markers of an ‘authentic 
+outsider’:
+
+North Carolina lost 300,000 manufacturing jobs and <a href="https://en.wikipedia.org/wiki/Ohio">Ohio</a> lost 400,000 since 2000. Going to 
+<a href="https://en.wikipedia.org/wiki/Mexico">Mexico</a> etc. NO MORE IF I WIN, WE W<a href="https://en.wikipedia.org/wiki/Illinois">IL</a>L BRING BACK! (Tweet, 15 March 2016)
+
+In comparison, only 5% of the selected tweets posted on Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>’s account 
+included ‘authenticity markers’, meaning elements displaying a kind of backstage or a 
+passionate side of the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>. Confirming her <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> image etablished in televised 
+debates and public rallies, a typical tweet posted by the campaign Hillary for America 
+(HFA) was crafted and policy-oriented:
+
+Our families and workplaces have changed in the 21st century. It’s time for our policies – from 
+paid leave to equal pay – to be updated too. (Tweet, 05 July 2016)
+
+In light of the development of social media campaigns from 2008 onwards, which by 
+scholars and commentators has been described as a process of professionalisation, the 
+2016 <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign represent a relatively unexpected turn away from the norm for 
+political  communication  on  social  media.  The  <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>  campaign  was  extraordinary  in 
+many ways, including the rhetoric, the rallies, the groundgame, the mainstream media, 
+and, as we have seen in this article, the social media strategy. Compared to the <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> 
+campaign’s innovative use of digital media, extensive use of staffers, and the democratic 
+<a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a>’s expertise, the <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a> campaign seemed pretty amateurish. Yet, ‘amateur’ might 
+strenghten the image of a <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> as authentic; the term ‘amateur’ refers to someone 
+who  engages  in  an  activity  for  pleasure  and  not  as  a  paid  job.  Politicians  who  come 
+across as too professional might therefore seem calculated and cynical, while the <a href="https://en.wikipedia.org/wiki/Amateur">ama-
+teur</a> has the benefit of perhaps seeming clumsy and imperfect, but yet authentic.
+
+Conclusion
+Since the mid-1970s, a growing strand of research has argued that a <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>’s image is 
+an important factor in predicting voter behaviour and election outcomes. The voters are 
+
+<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> 
+
+59
+
+interested in knowing more about the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s’ character and personality, in order to 
+evaluate their trustworthiness as political leaders. These evaluations are largely based on 
+the mediated image of the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> and to what degree the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> comes across as 
+authentic and likeable (<a href="https://he.wikipedia.org/wiki/קנדל_וורטס">Kendall</a> and Paine, 1995; Nimmo and Savage, 1976; <a href="https://en.wikipedia.org/wiki/Lynn_Vavreck">Vavreck</a>, 
+2009; <a href="https://en.wikipedia.org/wiki/Drew_Westen">Westen</a>, 2008). Social media represents a new means of constructing and negotiat-
+ing a <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>’s image, and campaigns’ social media strategies are important sources of 
+information and perspective on a given year’s election.
+
+This article discussed social media use in the 2016 election campaigns of <a href="https://en.wikipedia.org/wiki/United_States">US</a> presi-
+dential <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> and <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a>, in order to explore recent develop-
+ments  in  relation  to  the  <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s’  degree  of  interaction  with  voters  and  tendencies 
+towards professionalisation. Three main findings stood out.
+
+First, the election campaigns used social media primarily as a marketing tool, and the 
+reluctance concerning online exchanges with voters that characterised previous <a href="https://en.wikipedia.org/wiki/United_States">US</a> pres-
+idential election campaigns was very present in the 2016 election cycle. Even the candi-
+date who broke all the rules, <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a>, kept his social media followers at arm’s 
+length and limited his engagement to retweeting selected tweets. The need to control the 
+message and promote the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> overwhelmed any campaign interest in initiating an 
+open and enlightened public debate.
+
+Second, social media election campaigns are constantly developing, and in the current 
+phase of political communication professionalisation is challenged by amateurism. The 
+technological  infrastructure  for  networked  communication  is  exploited  differently  by 
+various campaigns in various political cultures. There are clear signs of professionalisa-
+tion  in  social  media  campaigns,  and  in  particular,  the  2016  <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a>  campaign  clearly 
+inherits  the  tendency  in  this  regard  of  previous  <a href="https://en.wikipedia.org/wiki/Democratic_Party_(United_States)">Democratic</a>  campaigns.  However,  the 
+2016 social media election cycle was also marked by amateurism, either as a calculated 
+strategy or the result of a spontaneous <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> (or both). In any case, it has become 
+clear that the amateur has a rhetorical claim to authenticity that manages to compete with 
+the professionalism of a more polished or controlled campaign. From a political culture 
+that  is  very  different  from  the  <a href="https://en.wikipedia.org/wiki/United_States">US</a>  presidential  elections,  <a href="https://en.wikipedia.org/wiki/Norway">Norwegian</a>  <a href="https://en.wikipedia.org/wiki/Erna_Solberg">Prime  Minister</a> 
+<a href="https://en.wikipedia.org/wiki/Erna_Solberg">Solberg</a> combines professionalism and amateurism on her social media sites and thus 
+comes across as more accessible than <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> but more composed than <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>.
+
+Third, social media platforms might have an agenda-setting impact and constitute a 
+powerful  arena  for  constructing  and  maintaining  a  <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>’s  image.  This  effect  is 
+dependent on the <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>’s capital, in the form of either celebrity status or economic 
+resources,  because  these  advantages  will  in  turn  attract  coverage  in  the  mainstream 
+media. Yet it must be said that without <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> or an equivalent social media platform, it 
+would have been difficult for a <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a> like <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>, who lacked political experience 
+and a support structure within the <a href="https://en.wikipedia.org/wiki/Republican_Party_(United_States)">Republican Party</a>, to come across as viable. Social 
+media represents an opportunity for both political outsiders and media campaign <a href="https://en.wikipedia.org/wiki/Amateur">ama-
+teur</a>s to succeed even as it disrupts the comfort zones of established politicians and their 
+professionalised campaigns.
+
+Funding
+The author received financial support from the <a href="https://en.wikipedia.org/wiki/Norway">Norwegian</a> Research Council (NFR).
+
+60 
+
+<a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a> 32</a>(1) 
+
+Notes
+1.  The  analysis  is  based  on  <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>  data  collected  via  the  <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>  capture  and  analysis  tool-
+set dmi-tcat. Tweets posted on the official accounts of Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> and <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>">Donald <a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a></a> 
+were collected in the period March-July 2016. The coding was conducted by two researchers, 
+with  high  inter-coder  reliability. Thanks  to  research  assistants  Linda  Rosenberg  and  Chris 
+Simonsen for data collection and coding.
+
+2.  http://assets.pewresearch.org/wp-content/uploads/sites/13/2016/07/PJ_2016.07.18_elec-
+
+3. 
+4. 
+5. 
+6. 
+7. 
+
+tion-2016_FINAL.pdf.
+https://www.youtube.com/watch?v=0uY7gLZDmn4.
+<a href="https://en.wikipedia.org/wiki/The_New_York_Times">http://www.nytimes.com/2016/05/04/business/media/new-york-times-co-q1-earnings.html</a>.
+http://www.bbc.com/news/uk-politics-23551323.
+http://www.vox.com/2016/7/14/12192666/pokemon-go-hillary-clinton-campaign.
+http://heavy.com/news/2016/06/does-donald-trump-run-his-twitter-account-page-operate-use-
+post-write-update-campaign-controversy-retweet-tweet-white-supremacist-bots-followers-first/.
+
+References
+Barber BR (1998) Three scenarios for the future of technology and strong democracy. Political 
+
+Science Quarterly 113(4): 573–589.
+
+<a href="https://en.wikipedia.org/wiki/Yochai_<a href="https://en.wikipedia.org/wiki/Yochai_Benkler">Benkler</a>"><a href="https://en.wikipedia.org/wiki/Yochai_Benkler">Benkler</a>  Y</a>  (2006)  The  Wealth  of  Networks:  How  Social  Production  Transforms  Markets  and 
+
+Freedom. <a href="https://en.wikipedia.org/wiki/New_Haven,_Connecticut">New Haven</a>, <a href="https://en.wikipedia.org/wiki/Connecticut">CT</a>: <a href="https://en.wikipedia.org/wiki/Yale_University_Press">Yale University Press</a>.
+
+<a href="https://en.wikipedia.org/wiki/Jay_Blumler">Blumler</a>  JG  and  Kavanagh  D  (1999)  The  third  age  of  political  communication:  Influences  and 
+
+features. Political Communication 16(3): 209–230.
+
+<a href="https://en.wikipedia.org/wiki/Bertolt_Brecht">Brecht</a> B (1983 [1930]) Radio as a means of communication. In: <a href="https://en.wikipedia.org/wiki/Armand_Mattelart">Mattelart A</a> and <a href="https://en.wikipedia.org/wiki/Seth_Siegelaub">Siegelaub S</a> (eds) 
+Communication  and  Class  Struggle  v.  2:  Liberation,  Socialism.  New  <a href="https://en.wikipedia.org/wiki/New_York_City">York</a>:  International 
+General, pp. 167–171.
+
+<a href="https://en.wikipedia.org/wiki/Axel_<a href="https://en.wikipedia.org/wiki/Axel_Bruns_(scholar)">Bruns</a>_(scholar)"><a href="https://en.wikipedia.org/wiki/Axel_Bruns_(scholar)">Bruns</a> A</a> and Highfield T (2016) May the best tweeter win: The <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> strategies of key campaign 
+accounts in the 2012 <a href="https://en.wikipedia.org/wiki/United_States">US</a> election. In: <a href="https://de.wikipedia.org/wiki/Christoph_Bieber">Bieber C</a> and  Kamps K (eds) Die <a href="https://en.wikipedia.org/wiki/United_States">US</a>-Präsidentschaftswahl 
+2012. <a href="https://en.wikipedia.org/wiki/Wiesbaden">Wiesbaden</a>: Springer, pp. 425–442.
+
+Chadwick A (2014) The hybrid media system: Politics and power. Public Administration 92(4): 
+
+1106–1114.
+
+Coleman S (2001) Online campaigning. In: Norris P (ed.) <a href="https://en.wikipedia.org/wiki/United_Kingdom">Britain</a> Votes. <a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a>: <a href="https://en.wikipedia.org/wiki/University_of_<a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a>"><a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a> University</a> 
+
+Press, pp. 115–124.
+
+<a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Craig_G">Craig</a>_G"><a href="https://en.wikipedia.org/wiki/Craig_G">Craig</a>  G</a>  (2016)  Performing  Politics:  Media  Interviews,  Debates  and  Press  Conferences.  New 
+
+<a href="https://en.wikipedia.org/wiki/New_York_City">York</a>: <a href="https://en.wikipedia.org/wiki/Wiley_(publisher)">John Wiley & Sons</a>.
+
+<a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>"><a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> G</a> (2015) Mediated Authenticity: How the Media Constructs Reality. New <a href="https://en.wikipedia.org/wiki/New_York_City">York</a>: Peter Lang 
+
+Publishing, Inc.
+
+<a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>"><a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>  G</a>  and  Naper  AA  (2016)  Social  media  incumbent  advantage:  Barack  <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a>’s  and  <a href="https://en.wikipedia.org/wiki/Mitt_<a href="https://en.wikipedia.org/wiki/Mitt_Romney">Romney</a>">Mitt 
+<a href="https://en.wikipedia.org/wiki/Mitt_Romney">Romney</a></a>’s  Tweets  in  the  2012  <a href="https://en.wikipedia.org/wiki/United_States">U.S.</a>  Presidential  Election  Campaign.  In:  <a href="https://en.wikipedia.org/wiki/Axel_<a href="https://en.wikipedia.org/wiki/Axel_Bruns_(scholar)">Bruns</a>_(scholar)"><a href="https://en.wikipedia.org/wiki/Axel_Bruns_(scholar)">Bruns</a>  A</a>,  <a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>"><a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>  G</a>, 
+<a href="https://no.wikipedia.org/wiki/Eli_Skogerbø">Skogerbø</a> E, et al. (eds) The <a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Routledge">Routledge</a>"><a href="https://en.wikipedia.org/wiki/Routledge">Routledge</a> Companion to Social Media</a> and Politics. New <a href="https://en.wikipedia.org/wiki/New_York_City">York</a>: 
+<a href="https://en.wikipedia.org/wiki/Routledge">Routledge</a>, pp. 364–377.
+
+<a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>"><a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>  G</a>  and  <a href="https://no.wikipedia.org/wiki/Eli_Skogerbø">Skogerbø</a>  E  (2013)  Personalized  campaigns  in  <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a>-centred  politics:  <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>  and 
+<a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>  as  arenas  for  political  communications  (Special  issue:  <a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>"><a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>  G</a>  and  Moe  H  (eds) 
+Social Media and Election <a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Campaigns</a>). Information, Communication, and Society 16(15): 
+757–774.
+
+<a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>"><a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> G</a> and Syvertsen T (2016) The end of television – Again! How TV is still influenced by cul-
+
+tural factors in the age of digital intermediaries. Media and Communication 4(3): 142–153.
+
+Graham T, Broersma M, Hazelhoff K, et al. (2013) Between broadcasting political messages and 
+interacting with voters: The use of <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> during the 2010 <a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a> General Election Campaign 
+
+<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> 
+
+61
+
+(Special issue: <a href="https://no.wikipedia.org/wiki/Gunn_<a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a>"><a href="https://no.wikipedia.org/wiki/Gunn_Enli">Enli</a> G</a> and Moe H (eds) Social Media and Election <a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Campaigns</a>). Information, 
+Communication, and Society 16(15): 692–716.
+
+Howard  PN  (2006)  New  Media  <a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Campaigns</a>  and  the  Managed  Citizen.  Cambridge:  Cambridge 
+
+University Press.
+
+Jackson N and Lilleker D (2011) Microblogging, constituency service and impression manage-
+
+ment: <a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a> MPs use of <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>. <a href="https://en.wikipedia.org/wiki/The_Journal_of_Legislative_Studies">The Journal of Legislative Studies</a> 17(1): 86–105.
+
+Karlsen R (2013) <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a>’s online success and <a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a> organizations: Adoption and adap-
+tion of <a href="https://en.wikipedia.org/wiki/United_States">U.S.</a> online practices in the <a href="https://en.wikipedia.org/wiki/Norway">Norwegian</a> Labor Party. <a href="https://en.wikipedia.org/wiki/Journal_of_Information_Technology_&_Politics">Journal of Information Technology 
+& Politics</a> 10(2): 158–170.
+
+<a href="https://he.wikipedia.org/wiki/קנדל_וורטס">Kendall</a> K and Paine S (1995) Political images and voting decisions. In: Hacker  (ed.) Candidate 
+
+Images in Presidential Elections. <a href="https://en.wikipedia.org/wiki/Westport,_Connecticut">Westport</a>, <a href="https://en.wikipedia.org/wiki/Connecticut">CT</a>: Praeger, pp. 19–36.
+
+Kreiss  D  (2012)  Taking  Our  Country  Back:  The  Crafting  of  Networked  Politics  from  Howard 
+
+Dean to Barack <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a>. <a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a>: <a href="https://en.wikipedia.org/wiki/University_of_<a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a>"><a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a> University</a> Press.
+
+Kreiss D (2014) Seizing the moment: The presidential campaigns’ use of <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> during the 2012 
+
+electoral cycle. <a href="https://en.wikipedia.org/wiki/New_media">New Media</a> and Society 18(8): 1473–1490.
+
+Kreiss  D  and  Jasinski  C  (2016)  The  tech  industry  meets  presidential  politics:  Explaining  the 
+democratic <a href="https://en.wikipedia.org/wiki/Labour_Party_(<a href="https://en.wikipedia.org/wiki/United_Kingdom">UK</a>)">party</a>’s technological advantage in electoral campaigning, 2004–2012. Political 
+Communication 33: 544–562.
+
+Larsson AO and Ihlen Ø (2015) Birds of a feather flock together? Party leaders on <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> during 
+
+the 2013 <a href="https://en.wikipedia.org/wiki/Norway">Norwegian</a> elections. <a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a> 30(6): 666–681.
+
+Larsson  AO  and  Moe  H  (2013)  <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a>  in  politics  and  elections:  Insights  from  <a href="https://en.wikipedia.org/wiki/Scandinavia">Scandinavia</a>. 
+In: <a href="https://en.wikipedia.org/wiki/Axel_<a href="https://en.wikipedia.org/wiki/Axel_Bruns_(scholar)">Bruns</a>_(scholar)"><a href="https://en.wikipedia.org/wiki/Axel_Bruns_(scholar)">Bruns</a> A</a>, Burgess J, Weller K, et al. (eds) <a href="https://de.wikipedia.org/wiki/Twitter">Twitter</a> and Society. New <a href="https://en.wikipedia.org/wiki/New_York_City">York</a>: Peter Lang 
+Publishing, Inc., pp. 319–330.
+
+Lilleker D and Negrine R (2002) The professionalization of political communication continuities 
+
+and change in media practices. <a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Europe">European</a>_Journal_of_Communication"><a href="https://en.wikipedia.org/wiki/Europe">European</a> <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a></a> 17(3): 305–323.
+
+Maarek PJ (2011) Campaign Communication and Political Marketing. Chichester: John Wiley & 
+
+Sons.
+
+<a href="https://en.wikipedia.org/wiki/Nielsen_Holdings">Nielsen</a> RK (2012) Ground Wars: Personalized Communication in Political <a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Campaigns</a>. <a href="https://en.wikipedia.org/wiki/Princeton,_New_Jersey">Princeton</a>, 
+
+<a href="https://en.wikipedia.org/wiki/New_Jersey">NJ</a>: <a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Princeton,_New_Jersey">Princeton</a>_University_Press"><a href="https://en.wikipedia.org/wiki/Princeton,_New_Jersey">Princeton</a> University Press</a>.
+
+Nimmo D and Savage R (1976) Candidates and Their Images: Concepts, Methods, and Findings. 
+
+<a href="https://en.wikipedia.org/wiki/Pacific_Palisades,_Los_Angeles">Pacific Palisades</a>, <a href="https://en.wikipedia.org/wiki/California">CA</a>: Goodyear Publishing Company.
+
+Parry-Giles SJ (2014) Hillary <a href="https://en.wikipedia.org/wiki/Hillary_Clinton">Clinton</a> in the News: Gender and Authenticity in <a href="https://en.wikipedia.org/wiki/United_States">American</a> Politics. 
+
+<a href="https://en.wikipedia.org/wiki/Urbana,_Illinois">Urbana</a>, <a href="https://en.wikipedia.org/wiki/Illinois">IL</a>: <a href="https://en.wikipedia.org/wiki/University_of_Illinois_Press">University of Illinois Press</a>.
+
+<a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Pew Research</a> (2016) Election 2016: <a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Campaigns</a> as a Direct Source of News. Washington. <a href="https://en.wikipedia.org/wiki/Washington,_D.C.">D.C.</a>: 
+
+<a href="https://en.wikipedia.org/wiki/Pew_Research_Center"><a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Pew Research</a> Center</a>.
+
+Stratton A (2013) <a href="https://en.wikipedia.org/wiki/Tory">Tories</a> hire <a href="https://en.wikipedia.org/wiki/Barack_Obama">Obama</a> <a href="https://en.wikipedia.org/wiki/Jim_Messina_(political_staffer)">campaign chief</a> <a href="https://en.wikipedia.org/wiki/Jim_Messina_(political_staffer)">Jim Messina</a>, 2 August. Available at: http://
+
+www.bbc.com/news/uk-politics-23551323.
+
+Stromer-Galley J (2000) On-line interaction and why <a href="https://en.wikipedia.org/wiki/Donald_<a href="https://en.wikipedia.org/wiki/Donald_Trump">Trump</a>"><a href="https://en.wikipedia.org/wiki/Hillary_Clinton">candidate</a></a>s avoid it. <a href="https://en.wikipedia.org/wiki/Journal_of_Communication">Journal of Communication</a> 
+
+50: 111–132.
+
+Stromer-Galley  J  (2004)  Interactivity-as-product  and  interactivity-as-process.  The  Information 
+
+Society 20(5): 391–394.
+
+Stromer-Galley J (2014) Presidential Campaigning in the Internet Age. <a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a>: <a href="https://en.wikipedia.org/wiki/University_of_<a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a>"><a href="https://en.wikipedia.org/wiki/Oxford">Oxford</a> University</a> 
+
+Press.
+
+<a href="https://en.wikipedia.org/wiki/Lynn_<a href="https://en.wikipedia.org/wiki/Lynn_Vavreck">Vavreck</a>"><a href="https://en.wikipedia.org/wiki/Lynn_Vavreck">Vavreck</a> L</a> (2009) The Message Matters: The Economy and Presidential <a href="https://en.wikipedia.org/wiki/Pew_Research_Center">Campaigns</a>. <a href="https://en.wikipedia.org/wiki/Princeton,_New_Jersey">Princeton</a>, 
+
+<a href="https://en.wikipedia.org/wiki/New_Jersey">NJ</a>: <a href="https://en.wikipedia.org/wiki/<a href="https://en.wikipedia.org/wiki/Princeton,_New_Jersey">Princeton</a>_University_Press"><a href="https://en.wikipedia.org/wiki/Princeton,_New_Jersey">Princeton</a> University Press</a>.
+
+Wallsten K (2013) Old media, new media sources: The blogosphere’s influence on print media 
+
+news coverage. International Journal of E-Politics 4(2): 1–20.
+
+<a href="https://en.wikipedia.org/wiki/Drew_Westen">Westen</a> D (2008) Political Brain: The Role of Emotion in Deciding the Fate of the Nation. New 
+
+<a href="https://en.wikipedia.org/wiki/New_York_City">York</a>: <a href="https://en.wikipedia.org/wiki/PublicAffairs">PublicAffairs</a>.
+
+
